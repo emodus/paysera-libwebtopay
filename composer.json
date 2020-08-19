@@ -1,5 +1,5 @@
 {
-    "name": "webtopay/libwebtopay",
+    "name": "emodus/paysera-libwebtopay",
     "description": "PHP Library for Paysera payment gateway integration",
     "license": "LGPL-3.0",
     "authors": [
